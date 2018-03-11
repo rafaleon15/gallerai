@@ -1,0 +1,8 @@
+https://www.tensorflow.org/tutorials/image_recognition
+https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html
+https://github.com/priya-dwivedi/Deep-Learning/blob/master/Object_Detection_Tensorflow_API.ipynb
+https://github.com/tensorflow/models
+
+
+Installation problems
+pip3 install --upgrade -v tensorflow==1.5.0
